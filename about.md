@@ -3,11 +3,11 @@ layout: page
 title: 关于我 
 ---
 
-一个工作6年的 iOS SDK 开发者，在一家游戏公司做SDK开发和维护。
+一个工作3年的 前端工程师 开发者，在一家自研公司做前端开发和维护。
 
-除了iOS技术，我还一直维护着这个博客，懂一些前端的基础知识。
+除了前端技术，我还一直维护着这个博客，懂一些后端的基础知识。
 
-平时喜欢用python写一些工具，能用工具做的事情坚决不用人工去操作。
+平时喜欢用java、mysql写一些程序与数据表，能用工具做的事情坚决不用人工去操作。
 
 <h2> 我们的博客 </h2>  
 
@@ -20,7 +20,7 @@ title: 关于我
 
 有关于博客主题的建议和意见都可以提给我，让我们一起来打造一个精美的主题吧~ 
 
-博客源码在 <a target="_blank" href='https://github.com/boobar/boobar.github.io/'>Github</a> 上，你的 Star 是我更新的动力，谢谢~
+博客源码在 <a target="_blank" href='https://github.com/HeiManBs/Boobar.Github.io'>Github</a> 上，你的 Star 是我更新的动力，谢谢~
 
 
 <h3> 搭建博客遇到了问题解法方法 </h3>  

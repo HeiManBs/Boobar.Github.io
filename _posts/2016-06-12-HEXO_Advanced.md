@@ -78,4 +78,4 @@ HEXO接近是最近有一些朋友提出的问题，然后我做了总结，如�
 
 <br>
 
-转载请注明：[潘柏信的博客](http://boobar.cn) » [点击阅读原文](http://boobar.cn/2016/06/HEXO_Advanced/)
+转载请注明：[黄冠凯的博客](https://boobar.asia) » [点击阅读原文](http://boobar.cn/2016/06/HEXO_Advanced/)
